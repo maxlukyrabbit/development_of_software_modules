@@ -1,0 +1,14 @@
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/bin/Debug/net7.0/development_of_software_modules
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/bin/Debug/net7.0/development_of_software_modules.deps.json
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/bin/Debug/net7.0/development_of_software_modules.runtimeconfig.json
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/bin/Debug/net7.0/development_of_software_modules.dll
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/bin/Debug/net7.0/development_of_software_modules.pdb
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.AssemblyInfoInputs.cache
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.AssemblyInfo.cs
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.csproj.CoreCompileInputs.cache
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.dll
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/refint/development_of_software_modules.dll
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.pdb
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/development_of_software_modules.genruntimeconfig.cache
+/Users/maksim/Desktop/Гениально/3 course/development_of_software_modules/1 laba/obj/Debug/net7.0/ref/development_of_software_modules.dll

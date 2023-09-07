@@ -1,0 +1,14 @@
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.AssemblyInfoInputs.cache
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.AssemblyInfo.cs
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.csproj.CoreCompileInputs.cache
+/Users/maksim/Desktop/Гениально/3 course/name/Name/bin/Debug/net7.0/Name
+/Users/maksim/Desktop/Гениально/3 course/name/Name/bin/Debug/net7.0/Name.deps.json
+/Users/maksim/Desktop/Гениально/3 course/name/Name/bin/Debug/net7.0/Name.runtimeconfig.json
+/Users/maksim/Desktop/Гениально/3 course/name/Name/bin/Debug/net7.0/Name.dll
+/Users/maksim/Desktop/Гениально/3 course/name/Name/bin/Debug/net7.0/Name.pdb
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.dll
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/refint/Name.dll
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.pdb
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/Name.genruntimeconfig.cache
+/Users/maksim/Desktop/Гениально/3 course/name/Name/obj/Debug/net7.0/ref/Name.dll

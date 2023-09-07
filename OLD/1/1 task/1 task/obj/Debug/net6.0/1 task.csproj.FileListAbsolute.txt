@@ -1,0 +1,14 @@
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/bin/Debug/net6.0/1 task
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/bin/Debug/net6.0/1 task.deps.json
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/bin/Debug/net6.0/1 task.runtimeconfig.json
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/bin/Debug/net6.0/1 task.dll
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/bin/Debug/net6.0/1 task.pdb
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.AssemblyInfoInputs.cache
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.AssemblyInfo.cs
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.csproj.CoreCompileInputs.cache
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.dll
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/refint/1 task.dll
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.pdb
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/1 task.genruntimeconfig.cache
+/Users/maksim/Desktop/Гениально/3 course/1 task/1 task/obj/Debug/net6.0/ref/1 task.dll
