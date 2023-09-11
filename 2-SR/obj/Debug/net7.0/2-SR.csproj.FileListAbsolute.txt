@@ -1,0 +1,14 @@
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/bin/Debug/net7.0/2-SR
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/bin/Debug/net7.0/2-SR.deps.json
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/bin/Debug/net7.0/2-SR.runtimeconfig.json
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/bin/Debug/net7.0/2-SR.dll
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/bin/Debug/net7.0/2-SR.pdb
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.AssemblyInfoInputs.cache
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.AssemblyInfo.cs
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.csproj.CoreCompileInputs.cache
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.dll
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/refint/2-SR.dll
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.pdb
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/2-SR.genruntimeconfig.cache
+/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/Debug/net7.0/ref/2-SR.dll

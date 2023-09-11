@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-laba/1/2-laba.csproj": {}
+    "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/2-SR.csproj": {}
   },
   "projects": {
-    "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-laba/1/2-laba.csproj": {
+    "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/2-SR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-laba/1/2-laba.csproj",
-        "projectName": "2-laba",
-        "projectPath": "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-laba/1/2-laba.csproj",
+        "projectUniqueName": "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/2-SR.csproj",
+        "projectName": "2-SR",
+        "projectPath": "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/2-SR.csproj",
         "packagesPath": "/Users/maksim/.nuget/packages/",
-        "outputPath": "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-laba/1/obj/",
+        "outputPath": "/Users/maksim/Documents/Учёба/3_course/development_of_software_modules/2-SR/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maksim/.nuget/NuGet/NuGet.Config"
